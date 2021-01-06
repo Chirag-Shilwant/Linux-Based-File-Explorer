@@ -3,6 +3,7 @@ A file explorer for linux systems that runs on terminal
 ## Prerequisites
 
 **1. Platform:** Linux 
+
 **2. Software Requirement:**
 * G++ compiler
    * **To install G++ :** ```sudo apt-get install g++```
